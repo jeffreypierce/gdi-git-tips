@@ -2,6 +2,7 @@
 This is an example repo and playground for the Burlington Girl Develop It **Git and Github** workshop!
 
 ## Common Git Commandz
+sadfli kjlhasd adsfljkhas ljkdfh askljdhf hl
 
 #### Local Commands
 + git add
