@@ -1,5 +1,6 @@
 # Girl Develop It!
-This is an example repo and playground for the Burlington Girl Develop It **Git and Github** workshop.
+This is an example repo and playground for the Burlington Girl Develop It **Git and Github** workshop.  
+Git is AWESOME!!!
 
 ## Common Git Commands
 
