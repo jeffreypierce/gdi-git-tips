@@ -1,8 +1,7 @@
 # Girl Develop It!
 This is an example repo and playground for the Burlington Girl Develop It **Git and Github** workshop!
 
-## Common Git Commandz
-sadfli kjlhasd adsfljkhas ljkdfh askljdhf hl
+## Common Git Commands
 
 #### Local Commands
 + git add
