@@ -13,7 +13,7 @@ This is an example repo and playground for the Burlington Girl Develop It **Git 
 
 #### Branching Commands
 + git checkout
-+ git branchasgd jkghsdf adghksf asdhjkgf sadhjkfg sadkhjgf asdhjkfg adshjkfga sdfhjg adhjsgf ashjkfg asdhjkfg sdkjg
++ git branch
 + git merge
 
 #### Sharing Commands
