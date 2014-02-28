@@ -1,5 +1,5 @@
 # Girl Develop It!
-This is an example repo and playground for the Burlington Girl Develop It **Git and Github** workshop.  
+sefkljha lkjdfh sadlkfhas dlkfhjads lkhf sadljfkads lkfhj salkdjf asldkjf sadlkjf asdlkjfh  
 Git is AWESOME!!!
 
 ## Common Git Commandz
