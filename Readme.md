@@ -49,3 +49,4 @@ This is an example repo and playground for the Burlington Girl Develop It **Git 
 
 #### Discounts!
 + [Git Pocket Guide](http://shop.oreilly.com/product/0636920024972.do) (Discount Code = WK5STARS)
+	+ Discount only works on 5-Star eBooks. [Here's a link to them](http://shop.oreilly.com/category/deals/5star-owo.do?code=WK5STARS).
